@@ -7,8 +7,7 @@ int main()
 	scanf("%d",&n);
 	scanf("%d",&m);
 	scanf("%llu",&t);
-	fflush(stdin);
-	scanf("%c",&a);
+	scanf(" %c",&a);
 	if(t>n&&t>m){
 
 	if(a=='L')
