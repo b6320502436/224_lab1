@@ -9,9 +9,6 @@ int main()
 	{
 		printf("%.0f:%d a.m.",a,(int)(a*100)%100);
 	}else printf("%.0f:%d p.m.",a,(int)(a*100)%100);
-
-	
-	
 	return 0;
 	
 	
